@@ -15,4 +15,7 @@ Javascript File Used:
 
 File called app.js in the "statics" folder with full code to fetch the JSON data, to make the dropdown menu and demographic panel, and make the horizontal bar chart, a bubble chart that displays each sample and gauge chart to plot the weekly washing frequency of the individual.
 
-All plots are updated when a new sample is selected from the dropdown menu and app was deployed to Github pages. Both the repo and deployment links were submitted. 
+All plots are updated when a new sample is selected from the dropdown menu and app was deployed to Github pages. Both the repo and deployment links were submitted below.
+
+Repo Link: https://github.com/priyajainnyc/belly-botton-challenge
+Deployment Link: https://priyajainnyc.github.io/belly-botton-challenge/
